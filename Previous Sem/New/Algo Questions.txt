@@ -1,0 +1,14 @@
+Masters Theorm case 3
+Induction 
+Fibnocci
+Time complexity and output of code
+Assignment 1 1st question model
+Assignment 2 prove that questions 2
+Characteristics equation 
+ MCQS 
+1)Insertion sort best case time complexity big-o(n)
+2)Is insertion sort follows divide and conquer-False
+3)Recurrence equation for binary search
+:T(n)=T(n/2)+o(n)
+4)Find no of iterations to find the element in given array using linear search
+5)Which of the following condition is not followed by binary search: Having insertions and deletions
