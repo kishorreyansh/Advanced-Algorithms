@@ -1,0 +1,66 @@
+Algorithms Topics:
+
+1. Priority Queues 
+	Heap Maximum 
+	Heap Extract Max
+	Max Heap Insert
+Chapter 7
+2. Quick Sort
+3. Randomized Quicksort
+
+Sorting in Linear Time
+
+4. Counting Sort
+	TC = θ(n)
+5. Radix Sort
+	TC = θ(n)
+6. Bucket Sort
+	TC = θ(n)
+
+Elementary Graph Algorithms
+
+7. Directed / Undirected / Weighted Graph - Done
+	Adjacency List Representation
+		Space Complexity = θ(|V| + |E|)
+	Matrix Representation
+		Space Complexity = θ(|V|^2)
+8. BFS - Done
+	TC = θ(|V| + |E|)
+9. DFS - Done
+	TC = θ(|V| + |E|)
+10. Topological Sort - Done
+	TC = θ(|V| lg |V|) //When sorting algorithm used
+	TC = θ(|V| + |E|) // When using Stack or Linked List
+11. Strongly Connected Components - Done
+
+Minimum Spanning Tree
+
+12. Kruskal's - No Table and No Queue
+	TC = θ(|E| lg |E|)
+13. Prim's - (Vertex,Key(infinity),Parent(Nil)), Queue[Extract Min value]
+	TC = θ(|E| lg |V|)
+
+Single Source Shortest Paths
+
+14. Bellman-Ford Algorithm - (Vertex,distance,Parent), [iterations = vertices-1] ,No Queue, Add  value to next vertices, Allow -ve values
+	TC = θ(|V||E|)
+15. Dijkstra's Algorithm - (Vertex,distance,Parent),Queue [Extract Min value], Add  value to next vertices , No -ve values
+	TC = θ(|E| lg |V|)
+
+Chapter 3: Dynamic Programming
+
+16. Binomial Coefficient
+	Divide and Conquer
+	Dynamic Programming (Bottom Up Approach)
+17. Flyod Algorithm
+	TC = n^3
+	
+
+
+
+35question 
+pandas 2,3,4,5,6
+Data visualization 1 seaborn,2 plotlib,poly
+ML
+
+8.30
